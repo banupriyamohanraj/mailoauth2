@@ -46,6 +46,7 @@ const transporter = nodemailer.createTransport({
   });
   
 
+  //Authentication
 const authorize = require('./Authorize')
 
 
