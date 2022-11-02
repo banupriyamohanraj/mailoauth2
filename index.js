@@ -46,7 +46,7 @@ const transporter = nodemailer.createTransport({
   });
   
 
-const authorize = require('./authorize')
+const authorize = require('./Authorize')
 
 
 app.get("/",authorize,async(req,res)=>{
