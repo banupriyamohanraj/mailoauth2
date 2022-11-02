@@ -1,7 +1,7 @@
 # mailoauth2
 
 a node js application for sending email from the server with 4 api endpoints with proper documentation for those api’s.
-
+The mail has been sent with nodemailer npm package and with google Oauth Authentication.
 
 <h1>API's</h1>
 <h2>Backend hosted URL</h2>
